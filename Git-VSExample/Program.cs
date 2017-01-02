@@ -10,6 +10,7 @@ namespace Git_VSExample
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi this is our first project to work with existing.");
         }
     }
 }
